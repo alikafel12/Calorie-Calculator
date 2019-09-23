@@ -2,32 +2,16 @@
 
 A calorie calculator that computes the calories and macros you should be consuming according to your weight, height, activity level, etc. in order to lose weight and/or gain muscle. I calculated the numbers using the standard formulas used by the fitness industry for losing weight and gaining muscle.
 
-## Getting Started
+# Built With
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Python 3.7
+* Tkinter
+* Pyinstaller
 
-### Prerequisites
+# What I Learned
 
-What things you need to install the software
-
-```
-Python 3.7
-Tkinter Library
-```
-
-## Using
-This an example of how to use the calculator
-https://drive.google.com/open?id=1ce62j7TzXscDmrNTPua90Y-smGnBKhVB
-After installing python and tkinter you can you download the excutable folders called dist and build. Then go into the dist folder and click on calories.exe
-## Built With
-
-* [Python 3.7]
-* [Tkinter]
-* [Pyinstaller]
-
-## Authors
-
-* **Ali Kafel** - *Initial work*
+* How to build a user friendly gui
+* Python calculations and displaying calculations
 
 ## Acknowledgments
 
